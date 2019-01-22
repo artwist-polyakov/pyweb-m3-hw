@@ -1,0 +1,35 @@
+.bordered {
+	border: 1px solid purple;
+}
+
+
+h1 {
+	margin-left: 20px;
+	color: grey;
+}
+
+
+hr {
+	border: 0;
+	height: 1px;
+	background: #000;
+	background-image: -webkit-linear-gradient(left, #fff, #000, #fff);
+	background-image: -moz-linear-gradient(left, #fff, #000, #fff);
+	background-image: -ms-linear-gradient(left, #fff, #000, #fff);
+	background-image: -o-linear-gradient(left, #fff, #000, #fff);
+}
+
+
+p>a {
+	margin-left: 20px;
+	color: grey;
+}
+
+a:hover {
+	color: grey;
+}
+
+
+body {
+	background-color: #f5f5f5;
+}
